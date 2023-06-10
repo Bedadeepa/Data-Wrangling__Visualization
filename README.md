@@ -8,3 +8,5 @@
  
 ![image](https://github.com/Bedadeepa/Data-Wrangling__Visualization/assets/60592370/538e85e4-7000-4b8f-b334-37deb0a8ea74)
 ![image](https://github.com/Bedadeepa/Data-Wrangling__Visualization/assets/60592370/e8297aa7-d47e-4154-891c-63c4464d5e7a)
+![image](https://github.com/Bedadeepa/Data-Wrangling__Visualization/assets/60592370/5b84fb0f-b5d8-420a-b792-4a6b76cc0229)
+
