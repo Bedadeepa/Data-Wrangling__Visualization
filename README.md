@@ -3,7 +3,7 @@
 - In these Projects I have used Pandas and Numpy for wrangling process. 
 # Data Visualization </br>
 - It is the representation of data through use of common graphics, such as charts, plots, infographics, and even animations. These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand.
-- In the Projects I have used Different type of plots To visualize the information of the data 
+- In the Projects I have used Different type of plots To visualize the information of the data useing seaborn & matplotlib. 
 - some plots from my projects
  
 ![image](https://github.com/Bedadeepa/Data-Wrangling__Visualization/assets/60592370/538e85e4-7000-4b8f-b334-37deb0a8ea74)
